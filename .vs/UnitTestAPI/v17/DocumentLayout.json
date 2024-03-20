@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8D5DF3-FEE0-4164-A73E-9B15411DDFDE}|UnitTestAPI\\UnitTestAPI.csproj|c:\\users\\asus\\source\\repos\\unittestapi\\unittestapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8D5DF3-FEE0-4164-A73E-9B15411DDFDE}|UnitTestAPI\\UnitTestAPI.csproj|solutionrelative:unittestapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8D5DF3-FEE0-4164-A73E-9B15411DDFDE}|UnitTestAPI\\UnitTestAPI.csproj|c:\\users\\asus\\source\\repos\\unittestapi\\unittestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8D5DF3-FEE0-4164-A73E-9B15411DDFDE}|UnitTestAPI\\UnitTestAPI.csproj|solutionrelative:unittestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E03ADE3-0569-4EC2-B502-516190B7DB0B}|UnitTesting_Api\\UnitTesting_Api.csproj|c:\\users\\asus\\source\\repos\\unittestapi\\unittesting_api\\category_testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E03ADE3-0569-4EC2-B502-516190B7DB0B}|UnitTesting_Api\\UnitTesting_Api.csproj|solutionrelative:unittesting_api\\category_testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8D5DF3-FEE0-4164-A73E-9B15411DDFDE}|UnitTestAPI\\UnitTestAPI.csproj|c:\\users\\asus\\source\\repos\\unittestapi\\unittestapi\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8D5DF3-FEE0-4164-A73E-9B15411DDFDE}|UnitTestAPI\\UnitTestAPI.csproj|solutionrelative:unittestapi\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8D5DF3-FEE0-4164-A73E-9B15411DDFDE}|UnitTestAPI\\UnitTestAPI.csproj|c:\\users\\asus\\source\\repos\\unittestapi\\unittestapi\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8D5DF3-FEE0-4164-A73E-9B15411DDFDE}|UnitTestAPI\\UnitTestAPI.csproj|solutionrelative:unittestapi\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8D5DF3-FEE0-4164-A73E-9B15411DDFDE}|UnitTestAPI\\UnitTestAPI.csproj|c:\\users\\asus\\source\\repos\\unittestapi\\unittestapi\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8D5DF3-FEE0-4164-A73E-9B15411DDFDE}|UnitTestAPI\\UnitTestAPI.csproj|solutionrelative:unittestapi\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8D5DF3-FEE0-4164-A73E-9B15411DDFDE}|UnitTestAPI\\UnitTestAPI.csproj|c:\\users\\asus\\source\\repos\\unittestapi\\unittestapi\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8D5DF3-FEE0-4164-A73E-9B15411DDFDE}|UnitTestAPI\\UnitTestAPI.csproj|solutionrelative:unittestapi\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTestAPI\\.cs",
+              "RelativeDocumentMoniker": "UnitTestAPI\\.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTestAPI\\.cs",
+              "RelativeToolTip": "UnitTestAPI\\.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T05:40:17.223Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTestAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "UnitTestAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTestAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "UnitTestAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:31:43.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTestAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTestAPI\\Program.cs",
+              "RelativeToolTip": "UnitTestAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:06:11.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category_Testing.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTesting_Api\\Category_Testing.cs",
+              "RelativeDocumentMoniker": "UnitTesting_Api\\Category_Testing.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTesting_Api\\Category_Testing.cs",
+              "RelativeToolTip": "UnitTesting_Api\\Category_Testing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T05:54:41.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTestAPI\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "UnitTestAPI\\Service\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTestAPI\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "UnitTestAPI\\Service\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T05:40:03.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTestAPI\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "UnitTestAPI\\Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTestAPI\\Service\\CategoryService.cs",
+              "RelativeToolTip": "UnitTestAPI\\Service\\CategoryService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T05:34:59.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTestAPI\\Controller\\CategoryController.cs",
+              "RelativeDocumentMoniker": "UnitTestAPI\\Controller\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\UnitTestAPI\\UnitTestAPI\\Controller\\CategoryController.cs",
+              "RelativeToolTip": "UnitTestAPI\\Controller\\CategoryController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T05:31:03.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
